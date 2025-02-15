@@ -1,0 +1,24 @@
+body {
+    padding: 3rem;
+    background-color: #f8f8ff;
+    overflow: hidden;
+}
+
+.main {
+    display: flex;
+    width: 100%;
+    flex-wrap: nowrap;
+}
+
+.inputs {
+    width: 50%;
+}
+
+.inputs #button {
+    width: 100%;
+}
+
+.block {
+    width: 48%;
+    margin-left: 1rem;
+}
