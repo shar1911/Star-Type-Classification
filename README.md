@@ -1,8 +1,8 @@
 # Star-Type-Classification
-This project classifies stars into various categories based on physical attributes such as temperature, luminosity, radius, absolute magnitude, star color, and spectral class. A Decision Tree classifier is used for this classification, integrated with a Flask-based RESTful API to provide real-time predictions.
+This project classifies stars into various categories based on physical attributes such as temperature, luminosity, radius, absolute magnitude, star color, and spectral class. A Decision Tree classifier is used for this classification, integrated with a Flask-based RESTful API to provide real-time predictions.<br/>
 📌 Key Features
-Machine Learning Model: Decision Tree Classifier (achieved 99.8% accuracy).
-API: Flask-based RESTful API for real-time star classification.
+Machine Learning Model: Decision Tree Classifier (achieved 99.8% accuracy).<br/>
+API: Flask-based RESTful API for real-time star classification.<br/>
 GUI: User-friendly interface to input star attributes and get predictions.
 Performance Evaluation: Compared Decision Tree with SVM (95%) and KNN (93%) models.
 📁 Star-Type-Classification
